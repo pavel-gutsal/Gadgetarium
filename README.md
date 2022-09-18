@@ -1,9 +1,12 @@
-# React TypeScript Starter Pack
+E-Commerce site, typescript is implemented for variable type control,
+Context API - for state managment, to avoid unnecessary prop drilling.
 
-To use this template click `Use this template`
+deployed with github pages [DEMO LINK](https://pavel-gutsal.github.io/Gadgetarium/)
 
-### Available Scripts
 
-`Deploy` - available to deploy your application to gh-pages
+here is gif desktop demo:
+![desktop](./description/desktop.gif)
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+here is gif phone demo:
+
+![phone](./description/phone.gif)
